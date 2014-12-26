@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
@@ -409,3 +410,9 @@ IF SOMETHING GOES WRONG:
 
    gdb'ing a non-running kernel currently fails because gdb (wrongly)
    disregards the starting offset for which the kernel is compiled.
+=======
+ProteusX_shamu
+==============
+
+Kernel to go with the Proteus ROM for the Nexus 6
+>>>>>>> eb9ed3e51f102d041fb954fc862e9f44b71e7a44
